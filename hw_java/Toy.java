@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Toy {
+public class Toy {
+    int idToy;
+    int weightToy;
+
+    String nameToy;
 }
